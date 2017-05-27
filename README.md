@@ -1,4 +1,7 @@
 # sublim
 
-package control,
-
+package control
+material theme
+predawn
+bracket-highlighter
+font : hack
